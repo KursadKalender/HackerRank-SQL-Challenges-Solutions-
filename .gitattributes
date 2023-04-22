@@ -1,0 +1,5 @@
+# credits to https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions/blob/master/.gitattributes
+
+*.sql linguist-detectable=true
+*.sql linguist-language=sql
+*.sql text
