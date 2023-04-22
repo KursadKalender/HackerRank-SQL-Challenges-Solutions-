@@ -20,3 +20,4 @@ My solutions for HackerRank SQL Challenges.
 | 2 |Revising the Select Query II| [Solution.sql](Challenges/Basic%20Select/Revising%20the%20Select%20Query%20II.sql)
 | 3 |Select All| [Solution.sql](Challenges/Basic%20Select/Select%20All.sql)
 | 4 |Select By ID| [Solution.sql](Challenges/Basic%20Select/Select%20By%20ID.sql)
+| 5 |Japanese Cities' Attributes| [Solution.sql](Challenges/Basic%20Select/Japanese%20Cities'%20Attributes.sql)
