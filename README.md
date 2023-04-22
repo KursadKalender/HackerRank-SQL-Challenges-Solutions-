@@ -18,3 +18,4 @@ My solutions for HackerRank SQL Challenges.
 |:------:|------------|:---------:|
 | 1 |Revising the Select Query I| [Solution.sql](Challenges/Basic%20Select/Revising%20the%20Select%20Query%20I.sql)
 | 2 |Revising the Select Query II| [Solution.sql](Challenges/Basic%20Select/Revising%20the%20Select%20Query%20II.sql)
+| 3 |Select All| [Solution.sql](Challenges/Basic%20Select/Select%20All.sql)
