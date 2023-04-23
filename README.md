@@ -22,3 +22,4 @@ My solutions for HackerRank SQL Challenges.
 | 4 |Select By ID| [Solution.sql](Challenges/Basic%20Select/Select%20By%20ID.sql)
 | 5 |Japanese Cities' Attributes| [Solution.sql](Challenges/Basic%20Select/Japanese%20Cities'%20Attributes.sql)
 | 6 |Japanese Cities' Names| [Solution.sql](Challenges/Basic%20Select/Japanese%20Cities'%20Names.sql)
+| 7 |Weather Observation Station 1| [Solution.sql](Challenges/Basic%20Select/Weather%20Observation%20Station%201.sql)
