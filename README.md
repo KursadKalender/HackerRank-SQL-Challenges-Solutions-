@@ -27,3 +27,4 @@ My solutions for HackerRank SQL Challenges.
 | 9 |Weather Observation Station 4| [Solution.sql](Challenges/Basic%20Select/Weather%20Observation%20Station%204.sql)
 | 10 |Weather Observation Station 5| [Solution.sql](Challenges/Basic%20Select/Weather%20Observation%20Station%205.sql)
 | 11 |Weather Observation Station 6| [Solution.sql](Challenges/Basic%20Select/Weather%20Observation%20Station%206.sql)
+| 12 |Weather Observation Station 7| [Solution.sql](Challenges/Basic%20Select/Weather%20Observation%20Station%207.sql)
