@@ -36,3 +36,10 @@ My solutions for HackerRank SQL Challenges.
 | 18 |Higher Than 75 Marks| [Solution.sql](Challenges/Basic%20Select/Higher%20Than%2075%20Marks.sql)
 | 19 |Employee Names| [Solution.sql](Challenges/Basic%20Select/Employee%20Names.sql)
 | 20 |Employee Salaries| [Solution.sql](Challenges/Basic%20Select/Employee%20Salaries.sql)
+
+
+## Advanced Select Challenges
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 |Type of Triangle| [Solution.sql](Challenges/Advanced%20Select/Type%20of%20Triangle.sql)
