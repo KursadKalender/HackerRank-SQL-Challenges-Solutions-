@@ -43,3 +43,4 @@ My solutions for HackerRank SQL Challenges.
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 |Type of Triangle| [Solution.sql](Challenges/Advanced%20Select/Type%20of%20Triangle.sql)
+| 2 |The PADS| [Solution.sql](Challenges/Advanced%20Select/The%20PADS.sql)
