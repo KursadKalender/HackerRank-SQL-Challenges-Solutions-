@@ -46,3 +46,4 @@ My solutions for HackerRank SQL Challenges.
 | 2 |The PADS| [Solution.sql](Challenges/Advanced%20Select/The%20PADS.sql)
 | 3 |Occupations| [Solution.sql](Challenges/Advanced%20Select/Occupations.sql)
 | 4 |Binary Tree Nodes| [Solution.sql](Challenges/Advanced%20Select/Binary%20Tree%20Nodes.sql)
+| 5 |New Companies| [Solution.sql](Challenges/Advanced%20Select/New%20Companies.sql)
