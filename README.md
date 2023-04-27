@@ -59,3 +59,4 @@ My solutions for HackerRank SQL Challenges.
 | 4 |Average Population| [Solution.sql](Challenges/Aggregation/Average%20Population.sql)
 | 5 |Japan Population| [Solution.sql](Challenges/Aggregation/Japan%20Population.sql)
 | 6 |Population Density Difference| [Solution.sql](Challenges/Aggregation/Population%20Density%20Difference.sql)
+| 7 |The Blunder| [Solution.sql](Challenges/Aggregation/The%20Blunder.sql)
