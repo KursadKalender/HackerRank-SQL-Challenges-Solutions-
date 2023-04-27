@@ -47,3 +47,16 @@ My solutions for HackerRank SQL Challenges.
 | 3 |Occupations| [Solution.sql](Challenges/Advanced%20Select/Occupations.sql)
 | 4 |Binary Tree Nodes| [Solution.sql](Challenges/Advanced%20Select/Binary%20Tree%20Nodes.sql)
 | 5 |New Companies| [Solution.sql](Challenges/Advanced%20Select/New%20Companies.sql)
+
+
+## Aggregation Challenges
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 |Revising Aggregations - The Count Function| [Solution.sql](Challenges/Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql)
+
+
+
+
+
+
