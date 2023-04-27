@@ -56,3 +56,4 @@ My solutions for HackerRank SQL Challenges.
 | 1 |Revising Aggregations - The Count Function| [Solution.sql](Challenges/Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql)
 | 2 |Revising Aggregations - The Sum Function| [Solution.sql](Challenges/Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)
 | 3 |Revising Aggregations - Averages| [Solution.sql](Challenges/Aggregation/Revising%20Aggregations%20-%20Averages.sql)
+| 4 |Average Population| [Solution.sql](Challenges/Aggregation/Average%20Population.sql)
