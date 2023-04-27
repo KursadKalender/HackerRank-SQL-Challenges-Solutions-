@@ -54,9 +54,4 @@ My solutions for HackerRank SQL Challenges.
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 |Revising Aggregations - The Count Function| [Solution.sql](Challenges/Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql)
-
-
-
-
-
-
+| 2 |Revising Aggregations - The Sum Function| [Solution.sql](Challenges/Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)
