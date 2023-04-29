@@ -72,3 +72,10 @@ My solutions for HackerRank SQL Challenges.
 | 17 |Weather Observation Station 20| [Solution.sql](Challenges/Aggregation/Weather%20Observation%20Station%2020.sql)
 
 
+## Basic Join Challenges
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 |Population Census| [Solution.sql](Challenges/Basic%20Join/Population%20Census.sql)
+
+
