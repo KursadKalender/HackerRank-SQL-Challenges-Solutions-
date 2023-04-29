@@ -62,5 +62,6 @@ My solutions for HackerRank SQL Challenges.
 | 7 |The Blunder| [Solution.sql](Challenges/Aggregation/The%20Blunder.sql)
 | 8 |Top Earners| [Solution.sql](Challenges/Aggregation/Top%20Earners.sql)
 | 9 |Weather Observation Station 2| [Solution.sql](Challenges/Aggregation/Weather%20Observation%20Station%202.sql)
+| 10 |Weather Observation Station 13| [Solution.sql](Challenges/Aggregation/Weather%20Observation%20Station%2013.sql)
 
 
