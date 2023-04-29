@@ -67,5 +67,6 @@ My solutions for HackerRank SQL Challenges.
 | 12 |Weather Observation Station 15| [Solution.sql](Challenges/Aggregation/Weather%20Observation%20Station%2015.sql)
 | 13 |Weather Observation Station 16| [Solution.sql](Challenges/Aggregation/Weather%20Observation%20Station%2016.sql)
 | 14 |Weather Observation Station 17| [Solution.sql](Challenges/Aggregation/Weather%20Observation%20Station%2017.sql)
+| 15 |Weather Observation Station 18| [Solution.sql](Challenges/Aggregation/Weather%20Observation%20Station%2018.sql)
 
 
