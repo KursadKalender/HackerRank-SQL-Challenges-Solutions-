@@ -61,3 +61,6 @@ My solutions for HackerRank SQL Challenges.
 | 6 |Population Density Difference| [Solution.sql](Challenges/Aggregation/Population%20Density%20Difference.sql)
 | 7 |The Blunder| [Solution.sql](Challenges/Aggregation/The%20Blunder.sql)
 | 8 |Top Earners| [Solution.sql](Challenges/Aggregation/Top%20Earners.sql)
+| 9 |Weather Observation Station 2| [Solution.sql](Challenges/Aggregation/Weather%20Observation%20Station%202.sql)
+
+
