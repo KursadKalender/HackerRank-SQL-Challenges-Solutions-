@@ -77,5 +77,6 @@ My solutions for HackerRank SQL Challenges.
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 |Population Census| [Solution.sql](Challenges/Basic%20Join/Population%20Census.sql)
+| 2 |African Cities| [Solution.sql](Challenges/Basic%20Join/African%20Cities.sql)
 
 
