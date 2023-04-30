@@ -80,5 +80,5 @@ My solutions for HackerRank SQL Challenges.
 | 2 |African Cities| [Solution.sql](Challenges/Basic%20Join/African%20Cities.sql)
 | 3 |Average Population of Each Continent| [Solution.sql](Challenges/Basic%20Join/Average%20Population%20of%20Each%20Continent.sql)
 | 4 |The Report| [Solution.sql](Challenges/Basic%20Join/The%20Report.sql)
-
+| 5 |Top Competitors| [Solution.sql](Challenges/Basic%20Join/Top%20Competitors.sql)
 
