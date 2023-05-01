@@ -83,4 +83,5 @@ My solutions for HackerRank SQL Challenges.
 | 5 |Top Competitors| [Solution.sql](Challenges/Basic%20Join/Top%20Competitors.sql)
 | 6 |Ollivander's Inventory| [Solution.sql](Challenges/Basic%20Join/Ollivander's%20Inventory.sql)
 | 7 |Challenges| [Solution.sql](Challenges/Basic%20Join/Challenges.sql)
+| 8 |Contest Leaderboard| [Solution.sql](Challenges/Basic%20Join/Contest%20Leaderboard.sql)
 
