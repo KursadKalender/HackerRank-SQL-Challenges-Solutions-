@@ -85,3 +85,9 @@ My solutions for HackerRank SQL Challenges.
 | 7 |Challenges| [Solution.sql](Challenges/Basic%20Join/Challenges.sql)
 | 8 |Contest Leaderboard| [Solution.sql](Challenges/Basic%20Join/Contest%20Leaderboard.sql)
 
+
+## Alternative Query Challenges
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 |Draw The Triangle 1| [Solution.sql](Challenges/Alternative%20Queries/Draw%20The%20Triangle%201.sql)
