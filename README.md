@@ -91,3 +91,4 @@ My solutions for HackerRank SQL Challenges.
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 |Draw The Triangle 1| [Solution.sql](Challenges/Alternative%20Queries/Draw%20The%20Triangle%201.sql)
+| 2 |Draw The Triangle 2| [Solution.sql](Challenges/Alternative%20Queries/Draw%20The%20Triangle%202.sql)
