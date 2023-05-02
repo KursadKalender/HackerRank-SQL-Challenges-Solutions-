@@ -91,6 +91,7 @@ My solutions for HackerRank SQL Challenges.
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
 | 1 |Placements| [Solution.sql](Challenges/Advance%20Join/Placements.sql)
+| 2 |Symmetric Pairs| [Solution.sql](Challenges/Advance%20Join/Symmetric%20Pairs.sql)
 
 
 ## Alternative Query Challenges
