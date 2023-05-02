@@ -86,6 +86,13 @@ My solutions for HackerRank SQL Challenges.
 | 8 |Contest Leaderboard| [Solution.sql](Challenges/Basic%20Join/Contest%20Leaderboard.sql)
 
 
+## Advanced Join Challenges
+
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 |Placements| [Solution.sql](Challenges/Advanced%20Join/Placements.sql)
+
+
 ## Alternative Query Challenges
 
 | Number | Challenges | Solutions |
@@ -93,3 +100,5 @@ My solutions for HackerRank SQL Challenges.
 | 1 |Draw The Triangle 1| [Solution.sql](Challenges/Alternative%20Queries/Draw%20The%20Triangle%201.sql)
 | 2 |Draw The Triangle 2| [Solution.sql](Challenges/Alternative%20Queries/Draw%20The%20Triangle%202.sql)
 | 3 |Print Prime Numbers| [Solution.sql](Challenges/Alternative%20Queries/Print%20Prime%20Numbers.sql)
+
+
