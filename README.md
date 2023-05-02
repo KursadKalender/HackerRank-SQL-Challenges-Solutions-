@@ -86,11 +86,11 @@ My solutions for HackerRank SQL Challenges.
 | 8 |Contest Leaderboard| [Solution.sql](Challenges/Basic%20Join/Contest%20Leaderboard.sql)
 
 
-## Advanced Join Challenges
+## Advance Join Challenges
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 |Placements| [Solution.sql](Challenges/Advanced%20Join/Placements.sql)
+| 1 |Placements| [Solution.sql](Challenges/Advance%20Join/Placements.sql)
 
 
 ## Alternative Query Challenges
